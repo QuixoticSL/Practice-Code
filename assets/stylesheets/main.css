@@ -355,3 +355,11 @@ p a {
   padding: 22px 0;
   text-align: center;
 }
+
+.speaker-info img {
+  border-radius: 50%;
+  height: 130px;
+  vertical-align: top;
+  margin-top: -66px;
+  margin-bottom: 22px;
+}
