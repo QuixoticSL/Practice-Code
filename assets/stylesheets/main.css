@@ -352,7 +352,7 @@ p a {
   border: 1px solid gray
   border-radius: 5px;
   margin-top: 88px;
-  padding: 22px 0;
+  margin-bottom: 22px;
   text-align: center;
 }
 
