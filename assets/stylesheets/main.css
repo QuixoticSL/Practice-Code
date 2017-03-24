@@ -363,3 +363,17 @@ p a {
   margin-top: -66px;
   margin-bottom: 22px;
 }
+
+/*
+  ========================================
+  Venue
+  ========================================
+*/
+
+.venue-theatre {
+  margin-bottom: 66px;
+}
+
+.venue-hotel {
+  margin-top: 22px;
+}
