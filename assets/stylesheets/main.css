@@ -377,3 +377,7 @@ p a {
 .venue-hotel {
   margin-top: 22px;
 }
+
+.venue-map {
+  height: 264px;
+}
