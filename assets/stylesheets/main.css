@@ -456,3 +456,19 @@ table {
 table :last-child {
   margin-bottom: 0;
 }
+
+th,
+td {
+  vertical-align: top;
+  bottom-margin: 22px;
+}
+
+th {
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+}
+
+td {
+  width: 40%;
+}
